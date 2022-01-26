@@ -23,7 +23,8 @@ The widgets are accompanied by a set of servlets serving as JSON providers.
 
 |WCM ExtJS UI Extensions version |AEM version supported
 |--------------------------------|----------------------
-|1.1.x or higher                 |AEM 6.4+
+|1.2.x or higher                 |AEM 6.5+
+|1.1.x                           |AEM 6.4+
 |1.0.x                           |AEM 6.1+
 |0.x                             |AEM 6.0+
 
@@ -37,6 +38,10 @@ To use this module you have to deploy also:
 | [wcm.io AEM Sling Models Extensions](https://maven-badges.herokuapp.com/maven-central/io.wcm/io.wcm.sling.models) | [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.wcm/io.wcm.sling.models/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.wcm/io.wcm.sling.models) |
 | [wcm.io WCM Commons](https://maven-badges.herokuapp.com/maven-central/io.wcm/io.wcm.wcm.commons) | [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.wcm/io.wcm.wcm.commons/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.wcm/io.wcm.wcm.commons) |
 
+
+### GitHub Repository
+
+Sources: https://github.com/wcm-io/io.wcm.wcm.ui.extjs
 
 
 [widgets]: widgets.html
