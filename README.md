@@ -1,4 +1,4 @@
-<img src="https://wcm.io/images/favicon-16@2x.png"/> WCM ExtJS UI Extensions
+<img src="https://wcm.io/images/favicon-16@2x.png"/> WCM ExtJS UI Extensions (deprecated)
 ======
 [![Build](https://github.com/wcm-io/io.wcm.wcm.ui.extjs/workflows/Build/badge.svg?branch=develop)](https://github.com/wcm-io/io.wcm.wcm.ui.extjs/actions?query=workflow%3ABuild+branch%3Adevelop)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.wcm/io.wcm.wcm.ui.extjs/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.wcm/io.wcm.wcm.ui.extjs)
