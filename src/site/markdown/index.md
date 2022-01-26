@@ -1,4 +1,4 @@
-## About WCM ExtJS UI Extensions
+## About WCM ExtJS UI Extensions (deprecated)
 
 ExtJS Widgets for AEM Classic UI.
 
